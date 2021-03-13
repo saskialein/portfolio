@@ -6,13 +6,16 @@
 @import './base/typography';
 
 @import './components/buttons';
+@import './components/logo';
 
 @import './layout/footer';
 @import './layout/sections';
+
 
 @import './sections/about';
 @import './sections/contact';
 @import './sections/hero';
 @import './sections/projects';
+@import './sections/skills';
 
 @import './vendor/css/font-awesome.min.css';

@@ -8,3 +8,44 @@ section {
     padding-right: 1rem;
   }
 }
+
+.custom-shape-divider-top-1615601937 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1615601937 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 120px;
+}
+
+.custom-shape-divider-top-1615601937 .shape-fill {
+  fill: #ffffff;
+}
+
+.custom-shape-divider-bottom-1615601838 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1615601838 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 120px;
+}
+
+.custom-shape-divider-bottom-1615601838 .shape-fill {
+  fill: #FFFFFF;
+}
